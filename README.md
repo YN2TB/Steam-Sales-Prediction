@@ -69,7 +69,7 @@ Steam-Sale-Predict/
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/Steam-Sale-Predict.git
+git clone https://github.com/YN2TB/Steam-Sale-Predict.git
 cd Steam-Sale-Predict
 git lfs pull          # download full dataset files tracked by Git LFS
 pip install -r requirements.txt
